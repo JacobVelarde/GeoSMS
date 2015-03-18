@@ -12,6 +12,7 @@ public class ayudanteBD extends SQLiteOpenHelper {
 			int version) {
 		super(context, name, factory, version);
 		// TODO Auto-generated constructor stub
+        //
 	}
 
 	@Override
